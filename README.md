@@ -17,6 +17,8 @@ def func():
 #2
 ```
 def main():
+    # default python runtime
+
     with pyrt("/path/to/pyrt/bin/python"):
         # specific python runtime
         pass
